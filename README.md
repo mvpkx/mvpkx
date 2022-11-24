@@ -1,6 +1,5 @@
-# Pet-projects
 ## 🔊 Reactive-808
-My web version of the legendary [Roland TR-808](https://ru.wikipedia.org/wiki/Roland_TR-808) drum machine.
+Web version of the legendary [Roland TR-808](https://ru.wikipedia.org/wiki/Roland_TR-808) drum machine.
 
 Made using Web Audio API, React & Redux Toolkit.
 
